@@ -130,7 +130,7 @@ function App() {
         />
         <Route
           path="/catalogue/template-divs/:designId"
-          element={<DivComponent isLogged={logged} setIsLogged={setLogged}overflowHidden={overflowHidden} setOverflowHidden={setOverflowHidden} />}
+          element={<DivComponent isLogged={logged} setIsLogged={setLogged} overflowHidden={overflowHidden} setOverflowHidden={setOverflowHidden} />}
         />
         <Route
           path="/catalogue/template-figures/:designId"

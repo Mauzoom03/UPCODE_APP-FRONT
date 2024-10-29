@@ -1,3 +1,4 @@
+
 import { useEffect, useState, useRef } from "react";
 import "../Figures/_figureComponent.scss";
 import { Link, useLocation } from "react-router-dom";

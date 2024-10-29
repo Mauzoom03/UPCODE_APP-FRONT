@@ -1,4 +1,5 @@
 
+
 import React, { useEffect, useRef, useState } from "react";
 import "./_asideTickets.scss";
 import { Link, useNavigate } from "react-router-dom";
